@@ -1,5 +1,5 @@
 {
-  "name": "my-webpack-project",
+  "name": "web-larek",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -43,5 +43,17 @@
     "lint:fix": "npm run lint -- --fix",
     "format": "prettier ./src --write",
     "deploy": "gh-pages -d dist"
-  }
+  },
+  "author": "DmitriyKomolykh\\ <dmiko13@yandex.ru\\>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmitriyKomolykh/web-larek-frontend.git"
+  },
+  "keywords": [
+    "web-larek"
+  ],
+  "bugs": {
+    "url": "https://github.com/DmitriyKomolykh/web-larek-frontend/issues"
+  },
+  "homepage": "https://github.com/DmitriyKomolykh/web-larek-frontend#readme"
 }
